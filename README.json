@@ -1,0 +1,170 @@
+{
+  "items": [
+    {
+      "description": "[28/06/2025] Dynamic Graph Condensation (Dong Chen et al. ArXiv'25)[28/06/2025] Simple yet Effective Graph Distillation via Clustering (Yurui Lai et al. KDD'25)[28/06/2025] GDCK: Efficient Large-Scale Graph Distillation Utilizing a Model-Free Kernelized Approach (Yue Zhang et al. PAKDD'25)[28/06/2025] Adapting Precomputed Features for Efficient Graph Condensation (Yuan Li et al. ICML'25)[11/05/2025] ST-GCond: Self-supervised and Transferable Graph Dataset Condensation (Beining Yang et al. ICLR'25)[11/05/2025] Bonsai: Gradient-free Graph Condensation for Node Classification (Mridul Gupta et al. ICLR'25)[11/05/2025] Bi-Directional Multi-Scale Graph Dataset Condensation via Information Bottleneck (Xingcheng Fu et al. AAAI'25)[11/05/2025] Structure Balance and Gradient Matching-Based Signed Graph Condensation (Rong Li et al. AAAI'25)[11/05/2025] Rethinking Federated Graph Learning: A Data Condensation Perspective (Hao Zhang et al. Arxiv'25)[11/05/2025] FedC4: Graph Condensation Meets Client-Client Collaboration for Efficient and Private Federated Graph Learning (Zekai Chen et al. Arxiv'25)\n[02/03/2025] Scalable Graph Condensation with Evolving Capabilities (Shengbo Gong et al. Arxiv'25)[02/02/2025] Exploring Hypergraph Condensation via Variational Hyperedge Generation and Multi-Aspectual Amelioration (Zheng Gong et al. WWW'25)[01/02/2025] Random Walk Guided Hyperbolic Graph Distillation (Yunbo Long et al. Arxiv'25)[09/01/2025] Efficient Graph Condensation via Gaussian Process (Lin Wang et al. Arxiv'25)[09/01/2025] GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection (Saba Fathi Rabooki et al. Arxiv'25)[09/01/2025] Training-free Heterogeneous Graph Condensation via Data Selection (Yuxuan Liang et al. ICDE'25)[27/11/2024] Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning (Xinyi Gao et al. Arxiv'24) [05/09/2024] GSTAM: Efficient Graph Distillation with Structural Attention-Matching (Arash Rasti-Meymandi et al. ECCV'24)[28/08/2024] Self-Supervised Learning for Graph Dataset Condensation (Yuxiang Wang et al. KDD'24)[31/07/2024] Backdoor Graph Condensation (Jiahao Wu et al. Arxiv'24)[20/07/2024] TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks (Yezi Liu et al. Arxiv'24)",
+      "items": [],
+      "title": "Latest Updates"
+    },
+    {
+      "description": "We welcome contributions to enhance the breadth and depth of this repository. If you have a paper related to graph condensation that you believe should be included, please feel free to submit a pull request. Together, we can build a valuable resource for the graph condensation community.",
+      "items": [],
+      "title": "Contribution"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Survey"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorial"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Methodology"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Effective Graph Condensation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Efficient Graph Condensation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generalized Graph Condensation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fair Graph Condensation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Robust Graph Condensation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Graph Continual Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hyper-Parameter/Neural Architecture Search"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Federated Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Inference Acceleration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Heterogeneous Graph"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hypergraph Graph"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Signed Graph"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dynamic Graph"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open-Source Libraries"
+    },
+    {
+      "description": "In addition to this Graph Condensation Papers Repository, you may find the following related repositories valuable for your research and exploration:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-Dataset-Distillation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-21T07:53:18Z",
+            "owner": "Guang000",
+            "repo": "Awesome-Dataset-Distillation",
+            "stars": 1969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-graph-reduction",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-25T17:57:08Z",
+            "owner": "Emory-Melody",
+            "repo": "awesome-graph-reduction",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Graph-Scaling",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-10T08:28:50Z",
+            "owner": "Frostland12138",
+            "repo": "Awesome-Graph-Scaling",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Related Repositories"
+    },
+    {
+      "description": "For any inquiries or suggestions regarding this repository, please don't hesitate to contact us by opening an issue on this repository.\nThank you for your interest in the Graph Condensation Papers Repository. We hope you find it valuable for your research and exploration. If you find this repository to be useful, please cite our survey paper.",
+      "items": [],
+      "title": "Contact"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:30:37.447Z",
+    "original_repository": "XYGaoG/Graph-Condensation-Papers",
+    "original_repository_sha": "5764af599bafe967b9d5aac5c97cf56660ba5001",
+    "enhanced_repository": "enhansome/enhansome-Graph-Condensation-Papers",
+    "enhanced_repository_description": null,
+    "title": "Awesome Graph Condensation Papers with stars"
+  }
+}
