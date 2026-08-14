@@ -1,6 +1,6 @@
 # Awesome Graph Condensation Papers with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,360 | 🐛 99 | 📅 2026-06-30 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,754 | 🐛 100 | 📅 2026-06-30 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
 **Graph condensation** (GC) is a data-centric approach that accelerates GNN model training by creating a compact yet representative graph to replace the original graph. It enables GNNs trained on the condensed graph to match the performance of those trained on the original graph.
 
@@ -114,7 +114,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 
 |            |           |                                                                                                                                            |                             |                                                                                                                 |
 | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ICLR'22    | GCond     | 📌[Graph Condensation for Graph Neural Networks](https://arxiv.org/abs/2110.07580)                                                         | Wei Jin et al.              | [\[code\]](https://github.com/chandlerbang/gcond) ⭐ 145 \| 🐛 11 \| 🌐 Python \| 📅 2025-10-10                  |
+| ICLR'22    | GCond     | 📌[Graph Condensation for Graph Neural Networks](https://arxiv.org/abs/2110.07580)                                                         | Wei Jin et al.              | [\[code\]](https://github.com/chandlerbang/gcond) ⭐ 144 \| 🐛 11 \| 🌐 Python \| 📅 2025-10-10                  |
 | KBS'23     | MSGC      | [Multiple Sparse Graphs Condensation](https://www.sciencedirect.com/science/article/pii/S0950705123006548)                                 | Jian Gao et al.             |                                                                                                                 |
 | NeurIPS'23 | SFGC      | 📌[Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data](https://arxiv.org/abs/2306.02664)              | Xin Zheng et al.            | [\[code\]](https://github.com/amanda-zheng/sfgc) ⭐ 38 \| 🐛 1 \| 🌐 Python \| 📅 2023-10-06                     |
 | Arxiv'23   | GroC      | [Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training](https://arxiv.org/abs/2311.15772)                   | Xinglin Li et al.           |                                                                                                                 |
@@ -256,7 +256,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 
 In addition to this Graph Condensation Papers Repository, you may find the following related repositories valuable for your research and exploration:
 
-* [Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,969 | 🐛 0 | 🌐 HTML | 📅 2026-07-21
+* [Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,968 | 🐛 0 | 🌐 HTML | 📅 2026-07-21
 * [Awesome-graph-reduction](https://github.com/ChandlerBang/awesome-graph-reduction) ⭐ 188 | 🐛 0 | 📅 2026-02-25
 * [Awesome-Graph-Scaling](https://github.com/Frostland12138/Awesome-Graph-Scaling) ⭐ 21 | 🐛 0 | 📅 2025-04-10
 
@@ -282,4 +282,4 @@ Thank you for your interest in the Graph Condensation Papers Repository. We hope
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
