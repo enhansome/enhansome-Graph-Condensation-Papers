@@ -116,7 +116,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-07-21T07:53:18Z",
+            "last_commit": "2026-08-15T02:58:15Z",
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
             "stars": 1968
@@ -160,7 +160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:10:31.570Z",
+    "last_updated": "2026-08-15T21:02:31.126Z",
     "original_repository": "XYGaoG/Graph-Condensation-Papers",
     "original_repository_sha": "5764af599bafe967b9d5aac5c97cf56660ba5001",
     "enhanced_repository": "enhansome/enhansome-Graph-Condensation-Papers",
