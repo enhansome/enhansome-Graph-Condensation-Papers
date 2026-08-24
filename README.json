@@ -1,6 +1,523 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICLR'22",
+              "description": "GCond 📌Graph Condensation for Graph Neural Networks Wei Jin et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417503508,
+                "language": "Python",
+                "last_commit": "2025-10-10T20:36:24Z",
+                "owner": "ChandlerBang",
+                "repo": "GCond",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NeurIPS'23",
+              "description": "SFGC 📌Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data Xin Zheng et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701117975,
+                "language": "Python",
+                "last_commit": "2023-10-06T03:35:36Z",
+                "owner": "Amanda-Zheng",
+                "repo": "SFGC",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arxiv'24",
+              "description": "CTRL Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching Tianle Zhang et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 753572008,
+                "language": "Python",
+                "last_commit": "2024-02-09T02:08:38Z",
+                "owner": "NUS-HPC-AI-Lab",
+                "repo": "CTRL",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICML'24",
+              "description": "GEOM 📌Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching Yuchen Zhang et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 753552685,
+                "language": "Python",
+                "last_commit": "2024-06-23T18:32:57Z",
+                "owner": "NUS-HPC-AI-Lab",
+                "repo": "GEOM",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KDD'24",
+              "description": "SGDC 📌Self-Supervised Learning for Graph Dataset Condensation Yuxiang Wang et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811657924,
+                "language": "Python",
+                "last_commit": "2025-12-30T01:44:20Z",
+                "owner": "wyx11112",
+                "repo": "SGDC",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ECCV'24",
+              "description": "GSTAM GSTAM: Efficient Graph Distillation with Structural Attention-Matching Arash Rasti-Meymandi et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 833821454,
+                "language": "Python",
+                "last_commit": "2024-08-27T21:31:53Z",
+                "owner": "arashrasti96",
+                "repo": "GSTAM",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Effective Graph Condensation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KDD'22",
+              "description": "DosCond Condensing Graphs via One-Step Gradient Matching Wei Jin et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 528651659,
+                "language": "Python",
+                "last_commit": "2023-07-10T11:18:15Z",
+                "owner": "amazon-science",
+                "repo": "doscond",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KDD'23",
+              "description": "KIDD Kernel Ridge Regression-Based Graph Dataset Distillation Zhe Xu et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 646369271,
+                "language": "Python",
+                "last_commit": "2023-09-10T19:33:54Z",
+                "owner": "pricexu",
+                "repo": "KIDD",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICLR'24",
+              "description": "Mirage Mirage: Model-Agnostic Graph Distillation for Graph Classification Mridul Gupta et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 768044474,
+                "language": "Python",
+                "last_commit": "2024-04-03T06:42:42Z",
+                "owner": "idea-iitd",
+                "repo": "Mirage",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WWW'25",
+              "description": "DisCo Disentangled Condensation for Large-scale Graphs Zhenbang Xiao et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 730020961,
+                "language": "Python",
+                "last_commit": "2025-02-12T08:03:08Z",
+                "owner": "BangHonor",
+                "repo": "DisCo",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WWW'24",
+              "description": "EXGC EXGC: Bridging Efficiency and Explainability in Graph Condensation Junfeng Fang et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 702812807,
+                "language": null,
+                "last_commit": "2023-10-10T04:23:43Z",
+                "owner": "MangoKiller",
+                "repo": "EXGC",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PKDD'24",
+              "description": "SimGC Simple Graph Condensation Zhenbang Xiao et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 770318689,
+                "language": "Python",
+                "last_commit": "2025-02-26T09:32:58Z",
+                "owner": "BangHonor",
+                "repo": "SimGC",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WWW'25",
+              "description": "CGC 📌Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition Xinyi Gao et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 919865722,
+                "language": "Python",
+                "last_commit": "2025-01-30T13:09:54Z",
+                "owner": "XYGaoG",
+                "repo": "CGC",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arxiv'25",
+              "description": "GCGP Efficient Graph Condensation via Gaussian Process Lin Wang et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 894406857,
+                "language": "Python",
+                "last_commit": "2025-06-15T03:42:38Z",
+                "owner": "WANGLin0126",
+                "repo": "GCGP",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICLR'25",
+              "description": "Bonsai Bonsai: Gradient-free Graph Condensation for Node Classification Mridul Gupta et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 928115008,
+                "language": "Python",
+                "last_commit": "2025-03-21T10:50:05Z",
+                "owner": "idea-iitd",
+                "repo": "Bonsai",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICML'25",
+              "description": "GCPA Adapting Precomputed Features for Efficient Graph Condensation Yuan Li et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 990836052,
+                "language": "Python",
+                "last_commit": "2025-06-27T05:30:47Z",
+                "owner": "Xtra-Computing",
+                "repo": "GCPA",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KDD'25",
+              "description": "ClustGDD Simple yet Effective Graph Distillation via Clustering Yurui Lai et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 989061531,
+                "language": "Python",
+                "last_commit": "2025-07-05T02:59:46Z",
+                "owner": "HKBU-LAGAS",
+                "repo": "ClustGDD",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PAKDD '25",
+              "description": "GDCK GDCK: Efficient Large-Scale Graph Distillation Utilizing a Model-Free Kernelized Approach Yue Zhang et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 946533494,
+                "language": "Python",
+                "last_commit": "2025-06-13T01:13:58Z",
+                "owner": "SchenbergZY",
+                "repo": "GDCK",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Efficient Graph Condensation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS'23",
+              "description": "SGDD Does Graph Distillation See Like Vision Dataset Counterpart? Beining Yang et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 644819038,
+                "language": "Python",
+                "last_commit": "2023-10-19T14:51:48Z",
+                "owner": "RingBDStack",
+                "repo": "SGDD",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICML'24",
+              "description": "GDEM 📌Graph Distillation with Eigenbasis Matching Yang Liu et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 803782881,
+                "language": "Python",
+                "last_commit": "2024-05-21T11:39:35Z",
+                "owner": "BUPT-GAMMA",
+                "repo": "GDEM",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICLR'25",
+              "description": "ST-GCond 📌ST-GCond: Self-supervised and Transferable Graph Dataset Condensation Beining Yang et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 930269544,
+                "language": null,
+                "last_commit": "2025-02-10T11:07:18Z",
+                "owner": "RingBDStack",
+                "repo": "ST-GCond",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generalized Graph Condensation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TKDE'25",
+              "description": "RobGC RobGC: Towards Robust Graph Condensation Xinyi Gao et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 781293414,
+                "language": "Python",
+                "last_commit": "2024-04-03T05:36:33Z",
+                "owner": "XYGaoG",
+                "repo": "RobGC",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Robust Graph Condensation"
+        }
+      ],
+      "title": "Methodology"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICDM'23",
+              "description": "CaT CaT: Balanced Continual Graph Learning with Graph Condensation Yilun Liu et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 687253626,
+                "language": "Python",
+                "last_commit": "2023-12-21T02:56:17Z",
+                "owner": "superallen13",
+                "repo": "CaT-CGL",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TKDE'24",
+              "description": "PUMA 📌PUMA: Efficient Continual Graph Learning with Graph Condensation Yilun Liu et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 733396615,
+                "language": "Python",
+                "last_commit": "2024-02-07T12:16:04Z",
+                "owner": "superallen13",
+                "repo": "PUMA",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graph Continual Learning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TKDE'24",
+              "description": "HGCond Heterogeneous Graph Condensation Jian Gao et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 714861142,
+                "language": "Python",
+                "last_commit": "2024-09-08T02:14:27Z",
+                "owner": "jianjianGJ",
+                "repo": "hgcond",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICDE'25",
+              "description": "FreeHGC 📌Training-free Heterogeneous Graph Condensation via Data Selection Yuxuan Liang et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 899434021,
+                "language": null,
+                "last_commit": "2024-12-06T08:56:03Z",
+                "owner": "PKU-DAIR",
+                "repo": "FreeHGC",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Heterogeneous Graph"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICDE'25",
+              "description": "BGC 📌Backdoor Graph Condensation Jiahao Wu et al. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 822724631,
+                "language": "Python",
+                "last_commit": "2025-03-29T11:51:58Z",
+                "owner": "JiahaoWuGit",
+                "repo": "BGC",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security"
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GCondenser",
+          "description": "[paper] PyG, DGL 6 7 Node classification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 797160796,
+            "language": "Python",
+            "last_commit": "2025-06-18T11:58:41Z",
+            "owner": "superallen13",
+            "repo": "GCondenser",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GC-Bench",
+          "description": "[paper] PyG 9 12 Node classification, graph classification, link prediction, node clustering, anomaly detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 820437359,
+            "language": "Python",
+            "last_commit": "2024-08-15T16:57:10Z",
+            "owner": "RingBDStack",
+            "repo": "GC-Bench",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphSlim",
+          "description": "[paper] PyG 7 5 Node classification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 760524195,
+            "language": "Python",
+            "last_commit": "2026-07-23T19:01:10Z",
+            "owner": "Emory-Melody",
+            "repo": "GraphSlim",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Open-Source Libraries"
+    },
+    {
       "description": "In addition to this Graph Condensation Papers Repository, you may find the following related repositories valuable for your research and exploration:",
       "items": [
         {
@@ -53,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:02:20.670Z",
+    "last_updated": "2026-08-24T14:49:11.183Z",
     "original_repository": "XYGaoG/Graph-Condensation-Papers",
     "original_repository_id": 782051351,
     "original_repository_sha": "5764af599bafe967b9d5aac5c97cf56660ba5001",
