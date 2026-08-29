@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR'22][KDD'22][IJCAI'24][NeurIPS'25] Implementation of \"Graph Condensation for Graph Neural Networks\"",
+                "homepage": "https://www.cs.emory.edu/~wjin30/files/GCond.pdf",
                 "id": 417503508,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-10T20:36:24Z",
+                "open_issues": 11,
                 "owner": "ChandlerBang",
                 "repo": "GCond",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "data-efficient-learning",
+                  "dataset-distillation",
+                  "graph-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -28,12 +37,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of NeurIPS-23:\"Structure-free Graph Condensation (SFGC): From Large-scale Graphs to Condensed Graph-free Data\"",
+                "homepage": null,
                 "id": 701117975,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-06T03:35:36Z",
+                "open_issues": 1,
                 "owner": "Amanda-Zheng",
                 "repo": "SFGC",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -44,12 +58,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of \"Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching\"",
+                "homepage": null,
                 "id": 753572008,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-09T02:08:38Z",
+                "open_issues": 0,
                 "owner": "NUS-HPC-AI-Lab",
                 "repo": "CTRL",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -60,12 +79,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of ICML-2024 \"Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching\"",
+                "homepage": null,
                 "id": 753552685,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-23T18:32:57Z",
+                "open_issues": 0,
                 "owner": "NUS-HPC-AI-Lab",
                 "repo": "GEOM",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -76,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 811657924,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-30T01:44:20Z",
+                "open_issues": 0,
                 "owner": "wyx11112",
                 "repo": "SGDC",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -92,12 +121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV-DD 2024] GSTAM: Efficient Graph Distillation with Structural Attention-Matching (Implementation)",
+                "homepage": null,
                 "id": 833821454,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-27T21:31:53Z",
+                "open_issues": 0,
                 "owner": "arashrasti96",
                 "repo": "GSTAM",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             }
@@ -115,12 +149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 528651659,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-10T11:18:15Z",
+                "open_issues": 4,
                 "owner": "amazon-science",
                 "repo": "doscond",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -131,12 +170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementations of 'Kernel Ridge Regression-Based Graph Dataset Distillation', SIGKDD'23.",
+                "homepage": null,
                 "id": 646369271,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-10T19:33:54Z",
+                "open_issues": 0,
                 "owner": "pricexu",
                 "repo": "KIDD",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -147,12 +191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 768044474,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-03T06:42:42Z",
+                "open_issues": 0,
                 "owner": "idea-iitd",
                 "repo": "Mirage",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -163,12 +212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official codebase for paper Disentangled Condensation for Graphs (DisCo). This codebase is based on the open-source Pytorch Geometric framework.",
+                "homepage": null,
                 "id": 730020961,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-12T08:03:08Z",
+                "open_issues": 1,
                 "owner": "BangHonor",
                 "repo": "DisCo",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -179,12 +233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 702812807,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-10-10T04:23:43Z",
+                "open_issues": 0,
                 "owner": "MangoKiller",
                 "repo": "EXGC",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -195,12 +254,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Graph Condensation",
+                "homepage": null,
                 "id": 770318689,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-26T09:32:58Z",
+                "open_issues": 0,
                 "owner": "BangHonor",
                 "repo": "SimGC",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -211,12 +275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WWW 25] Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition.",
+                "homepage": null,
                 "id": 919865722,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-30T13:09:54Z",
+                "open_issues": 0,
                 "owner": "XYGaoG",
                 "repo": "CGC",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -227,12 +296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient Graph Condensation via Gaussian Process",
+                "homepage": null,
                 "id": 894406857,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-15T03:42:38Z",
+                "open_issues": 0,
                 "owner": "WANGLin0126",
                 "repo": "GCGP",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -243,12 +317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 928115008,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-21T10:50:05Z",
+                "open_issues": 0,
                 "owner": "idea-iitd",
                 "repo": "Bonsai",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -259,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adapting Precomputed Features for Efficient Graph Condensation (ICML 2025)",
+                "homepage": null,
                 "id": 990836052,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-27T05:30:47Z",
+                "open_issues": 0,
                 "owner": "Xtra-Computing",
                 "repo": "GCPA",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -275,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the official implementation of KDD2025 paper \"Simple yet Effective Graph Distillation via Clustering\"",
+                "homepage": "https://arxiv.org/abs/2505.20807",
                 "id": 989061531,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-05T02:59:46Z",
+                "open_issues": 0,
                 "owner": "HKBU-LAGAS",
                 "repo": "ClustGDD",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -291,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 946533494,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-13T01:13:58Z",
+                "open_issues": 0,
                 "owner": "SchenbergZY",
                 "repo": "GDCK",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             }
@@ -314,12 +408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for SGDD",
+                "homepage": null,
                 "id": 644819038,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-19T14:51:48Z",
+                "open_issues": 7,
                 "owner": "RingBDStack",
                 "repo": "SGDD",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -330,12 +429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of ICML'24 Paper \"Graph Distillation with Eigenbasis Matching\"",
+                "homepage": null,
                 "id": 803782881,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-21T11:39:35Z",
+                "open_issues": 0,
                 "owner": "BUPT-GAMMA",
                 "repo": "GDEM",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -346,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for ST-GCond",
+                "homepage": null,
                 "id": 930269544,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-02-10T11:07:18Z",
+                "open_issues": 2,
                 "owner": "RingBDStack",
                 "repo": "ST-GCond",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             }
@@ -369,12 +478,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TKDE 25] RobGC: Towards Robust Graph Condensation. ",
+                "homepage": null,
                 "id": 781293414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-03T05:36:33Z",
+                "open_issues": 0,
                 "owner": "XYGaoG",
                 "repo": "RobGC",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             }
@@ -398,12 +512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 687253626,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-21T02:56:17Z",
+                "open_issues": 1,
                 "owner": "superallen13",
                 "repo": "CaT-CGL",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -414,12 +533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 733396615,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-07T12:16:04Z",
+                "open_issues": 0,
                 "owner": "superallen13",
                 "repo": "PUMA",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             }
@@ -437,12 +561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 714861142,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-08T02:14:27Z",
+                "open_issues": 2,
                 "owner": "jianjianGJ",
                 "repo": "hgcond",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             },
@@ -453,12 +582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 899434021,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-06T08:56:03Z",
+                "open_issues": 0,
                 "owner": "PKU-DAIR",
                 "repo": "FreeHGC",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             }
@@ -476,12 +610,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ICDE 2025) Official implementation of the paper:  \"Backdoor Graph Condensation\"",
+                "homepage": "https://arxiv.org/abs/2407.11025",
                 "id": 822724631,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-29T11:51:58Z",
+                "open_issues": 0,
                 "owner": "JiahaoWuGit",
                 "repo": "BGC",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:32:24.957Z"
             }
@@ -503,12 +642,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 797160796,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-18T11:58:41Z",
+            "open_issues": 0,
             "owner": "superallen13",
             "repo": "GCondenser",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:24.957Z"
         },
@@ -519,12 +663,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open and Unified Benchmark for Graph Condensation (submitted to NeurIPS 2024 Datasets and Benchmarks Track)",
+            "homepage": null,
             "id": 820437359,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-15T16:57:10Z",
+            "open_issues": 1,
             "owner": "RingBDStack",
             "repo": "GC-Bench",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:24.957Z"
         },
@@ -535,12 +684,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025] A Python library for graph reduction including condensation, coarsening, and sparsification.",
+            "homepage": "https://arxiv.org/pdf/2406.16715?",
             "id": 760524195,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-23T19:01:10Z",
+            "open_issues": 0,
             "owner": "Emory-Melody",
             "repo": "GraphSlim",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "graph",
+              "graph-coarsening",
+              "graph-condensation",
+              "graph-neural-network",
+              "graph-reduction",
+              "graph-sparsification"
+            ]
           },
           "first_seen": "2026-08-28T04:32:24.957Z"
         }
@@ -557,12 +718,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome papers on dataset distillation and related applications.",
+            "homepage": "https://guang000.github.io/Awesome-Dataset-Distillation/",
             "id": 501453265,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-15T02:58:15Z",
+            "open_issues": 1,
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
-            "stars": 1970
+            "stars": 1970,
+            "topics": [
+              "awesome-list",
+              "deep-learning"
+            ]
           },
           "first_seen": "2026-08-28T04:32:24.957Z"
         },
@@ -573,12 +742,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IJCAI 2024] Papers about graph reduction including graph coarsening, graph condensation, graph sparsification, graph summarization, etc.",
+            "homepage": "https://arxiv.org/abs/2402.03358",
             "id": 689494142,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-25T17:57:08Z",
+            "open_issues": 0,
             "owner": "Emory-Melody",
             "repo": "awesome-graph-reduction",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "coreset-selection",
+              "dataset-distillation",
+              "graph-coarsening",
+              "graph-neural-networks",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T04:32:24.957Z"
         },
@@ -589,12 +769,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 752097731,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-10T08:28:50Z",
+            "open_issues": 0,
             "owner": "Frostland12138",
             "repo": "Awesome-Graph-Scaling",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:32:24.957Z"
         }
@@ -603,15 +788,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:37.621Z",
+    "last_updated": "2026-08-29T05:04:39.245Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Graph Condensation Papers, [TKDE 25] Graph Condensation: A Survey.",
+      "homepage": null,
       "id": 782051351,
       "language": null,
+      "license": null,
       "last_commit": "2025-07-01T03:28:04Z",
+      "open_issues": 0,
       "owner": "XYGaoG",
       "repo": "Graph-Condensation-Papers",
-      "stars": 51
+      "stars": 51,
+      "topics": [
+        "awesome-list",
+        "dataset-distillation",
+        "graph-condensation",
+        "graph-representation-learning"
+      ]
     },
     "original_repository_sha": "5764af599bafe967b9d5aac5c97cf56660ba5001",
     "enhanced_repository": "enhansome/enhansome-Graph-Condensation-Papers",
