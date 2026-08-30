@@ -155,7 +155,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2023-07-10T11:18:15Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "amazon-science",
                 "repo": "doscond",
                 "stars": 19,
@@ -723,7 +723,7 @@
             "id": 501453265,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-08-15T02:58:15Z",
+            "last_commit": "2026-08-30T13:12:39Z",
             "open_issues": 1,
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
@@ -788,7 +788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:49:06.806Z",
+    "last_updated": "2026-08-30T22:57:01.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Graph Condensation Papers, [TKDE 25] Graph Condensation: A Survey.",
