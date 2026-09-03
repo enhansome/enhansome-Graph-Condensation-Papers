@@ -1,6 +1,6 @@
 # Awesome Graph Condensation Papers with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,390 | 🐛 105 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,705 | 🐛 106 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
 **Graph condensation** (GC) is a data-centric approach that accelerates GNN model training by creating a compact yet representative graph to replace the original graph. It enables GNNs trained on the condensed graph to match the performance of those trained on the original graph.
 
@@ -139,7 +139,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 | WWW'25    | DisCo    | [Disentangled Condensation for Large-scale Graphs](https://arxiv.org/abs/2401.12231)                                                                        | Zhenbang Xiao et al. | [\[code\]](https://github.com/BangHonor/DisCo) ⭐ 11 \| 🐛 1 \| 🌐 Python \| 📅 2025-02-12         |
 | WWW'24    | EXGC     | [EXGC: Bridging Efficiency and Explainability in Graph Condensation](https://arxiv.org/abs/2402.05962)                                                      | Junfeng Fang et al.  | [\[code\]](https://github.com/MangoKiller/EXGC) ⭐ 1 \| 🐛 0 \| 📅 2023-10-10                      |
 | PKDD'24   | SimGC    | [Simple Graph Condensation](https://arxiv.org/abs/2403.14951)                                                                                               | Zhenbang Xiao et al. | [\[code\]](https://github.com/BangHonor/SimGC) ⭐ 13 \| 🐛 0 \| 🌐 Python \| 📅 2025-02-26         |
-| WWW'25    | CGC      | 📌[Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)                         | Xinyi Gao et al.     | [\[code\]](https://github.com/XYGaoG/CGC) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2025-01-30               |
+| WWW'25    | CGC      | 📌[Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)                         | Xinyi Gao et al.     | [\[code\]](https://github.com/XYGaoG/CGC) ⭐ 2 \| 🐛 0 \| 🌐 Python \| 📅 2025-01-30               |
 | Arxiv'25  | GCGP     | [Efficient Graph Condensation via Gaussian Process](https://arxiv.org/abs/2501.02565)                                                                       | Lin Wang et al.      | [\[code\]](https://github.com/WANGLin0126/GCGP) ⭐ 3 \| 🐛 0 \| 🌐 Python \| 📅 2025-06-15         |
 | Arxiv'25  | GECC     | [Scalable Graph Condensation with Evolving Capabilities](https://arxiv.org/abs/2502.17614)                                                                  | Shengbo Gong et al.  |                                                                                                   |
 | ICLR'25   | Bonsai   | [Bonsai: Gradient-free Graph Condensation for Node Classification](https://openreview.net/forum?id=5x88lQ2MsH)                                              | Mridul Gupta et al.  | [\[code\]](https://github.com/idea-iitd/Bonsai) ⭐ 2 \| 🐛 0 \| 🌐 Python \| 📅 2025-03-21         |
@@ -256,7 +256,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 
 In addition to this Graph Condensation Papers Repository, you may find the following related repositories valuable for your research and exploration:
 
-* [Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,971 | 🐛 1 | 🌐 HTML | 📅 2026-08-31
+* [Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,972 | 🐛 0 | 🌐 HTML | 📅 2026-09-03
 * [Awesome-graph-reduction](https://github.com/ChandlerBang/awesome-graph-reduction) ⭐ 188 | 🐛 0 | 📅 2026-02-25
 * [Awesome-Graph-Scaling](https://github.com/Frostland12138/Awesome-Graph-Scaling) ⭐ 21 | 🐛 0 | 📅 2025-04-10
 
@@ -282,4 +282,4 @@ Thank you for your interest in the Graph Condensation Papers Repository. We hope
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
