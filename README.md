@@ -1,6 +1,6 @@
 # Awesome Graph Condensation Papers with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,960 | 🐛 107 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,450 | 🐛 107 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
 **Graph condensation** (GC) is a data-centric approach that accelerates GNN model training by creating a compact yet representative graph to replace the original graph. It enables GNNs trained on the condensed graph to match the performance of those trained on the original graph.
 
@@ -245,7 +245,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 | Library                                                                                             | Paper                                         | Implementation | #GC Methods | #Datasets | Tasks                                                                                          |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------- | -------------- | ----------- | --------- | ---------------------------------------------------------------------------------------------- |
 | [GCondenser](https://github.com/superallen13/GCondenser) ⭐ 14 \| 🐛 0 \| 🌐 Python \| 📅 2025-06-18 | [\[paper\]](https://arxiv.org/abs/2405.14246) | PyG, DGL       | 6           | 7         | Node classification                                                                            |
-| [GC-Bench](https://github.com/RingBDStack/GC-Bench) ⭐ 20 \| 🐛 1 \| 🌐 Python \| 📅 2024-08-15      | [\[paper\]](https://arxiv.org/abs/2407.00615) | PyG            | 9           | 12        | Node classification, graph classification, link prediction, node clustering, anomaly detection |
+| [GC-Bench](https://github.com/RingBDStack/GC-Bench) ⭐ 21 \| 🐛 1 \| 🌐 Python \| 📅 2024-08-15      | [\[paper\]](https://arxiv.org/abs/2407.00615) | PyG            | 9           | 12        | Node classification, graph classification, link prediction, node clustering, anomaly detection |
 | [GraphSlim](https://github.com/Emory-Melody/GraphSlim) ⭐ 32 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-23   | [\[paper\]](https://arxiv.org/abs/2406.16715) | PyG            | 7           | 5         | Node classification                                                                            |
 
 ***
@@ -282,4 +282,4 @@ Thank you for your interest in the Graph Condensation Papers Repository. We hope
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
