@@ -727,7 +727,7 @@
             "open_issues": 0,
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
-            "stars": 1973,
+            "stars": 1974,
             "topics": [
               "awesome-list",
               "deep-learning"
@@ -788,7 +788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:28:44.690Z",
+    "last_updated": "2026-10-03T23:22:49.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Graph Condensation Papers, [TKDE 25] Graph Condensation: A Survey.",
