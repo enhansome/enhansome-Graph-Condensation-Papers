@@ -714,7 +714,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Dataset-Distillation",
-          "description": null,
+          "description": "Guang000/Awesome-Dataset-Distillation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -738,7 +738,7 @@
         {
           "node_type": "item",
           "title": "Awesome-graph-reduction",
-          "description": null,
+          "description": "Emory-Melody/awesome-graph-reduction",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -765,7 +765,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Graph-Scaling",
-          "description": null,
+          "description": "Frostland12138/Awesome-Graph-Scaling",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -788,7 +788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:00:54.016Z",
+    "last_updated": "2026-10-03T04:28:44.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Graph Condensation Papers, [TKDE 25] Graph Condensation: A Survey.",
