@@ -1,6 +1,6 @@
 # Awesome Graph Condensation Papers with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,201 | 🐛 105 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,654 | 🐛 105 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
 **Graph condensation** (GC) is a data-centric approach that accelerates GNN model training by creating a compact yet representative graph to replace the original graph. It enables GNNs trained on the condensed graph to match the performance of those trained on the original graph.
 
@@ -131,7 +131,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 
 |           |          |                                                                                                                                                             |                      |                                                                                                   |
 | --------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------- |
-| KDD'22    | DosCond  | [Condensing Graphs via One-Step Gradient Matching](https://arxiv.org/abs/2206.07746)                                                                        | Wei Jin et al.       | [\[code\]](https://github.com/amazon-research/DosCond) ⭐ 19 \| 🐛 3 \| 🌐 Python \| 📅 2023-07-10 |
+| KDD'22    | DosCond  | [Condensing Graphs via One-Step Gradient Matching](https://arxiv.org/abs/2206.07746)                                                                        | Wei Jin et al.       | [\[code\]](https://github.com/amazon-research/DosCond) ⭐ 20 \| 🐛 3 \| 🌐 Python \| 📅 2023-07-10 |
 | Arxiv'22  | GCDM     | 📌[Graph Condensation via Receptive Field Distribution Matching](https://arxiv.org/abs/2206.13697)                                                          | Mengyang Liu et al.  |                                                                                                   |
 | KDD'23    | KIDD     | [Kernel Ridge Regression-Based Graph Dataset Distillation](https://dl.acm.org/doi/10.1145/3580305.3599398)                                                  | Zhe Xu et al.        | [\[code\]](https://github.com/pricexu/KIDD) ⭐ 7 \| 🐛 0 \| 🌐 Python \| 📅 2023-09-10             |
 | WWW'24    | GC-SNTK  | [Fast Graph Condensation with Structure-based Neural Tangent Kernel](https://arxiv.org/abs/2310.11046)                                                      | Lin Wang et al.      |                                                                                                   |
@@ -246,7 +246,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------- | -------------- | ----------- | --------- | ---------------------------------------------------------------------------------------------- |
 | [GCondenser](https://github.com/superallen13/GCondenser) ⭐ 14 \| 🐛 0 \| 🌐 Python \| 📅 2025-06-18 | [\[paper\]](https://arxiv.org/abs/2405.14246) | PyG, DGL       | 6           | 7         | Node classification                                                                            |
 | [GC-Bench](https://github.com/RingBDStack/GC-Bench) ⭐ 21 \| 🐛 1 \| 🌐 Python \| 📅 2024-08-15      | [\[paper\]](https://arxiv.org/abs/2407.00615) | PyG            | 9           | 12        | Node classification, graph classification, link prediction, node clustering, anomaly detection |
-| [GraphSlim](https://github.com/Emory-Melody/GraphSlim) ⭐ 32 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-23   | [\[paper\]](https://arxiv.org/abs/2406.16715) | PyG            | 7           | 5         | Node classification                                                                            |
+| [GraphSlim](https://github.com/Emory-Melody/GraphSlim) ⭐ 32 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-13   | [\[paper\]](https://arxiv.org/abs/2406.16715) | PyG            | 7           | 5         | Node classification                                                                            |
 
 ***
 
