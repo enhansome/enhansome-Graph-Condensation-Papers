@@ -723,11 +723,11 @@
             "id": 501453265,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-09T08:23:24Z",
+            "last_commit": "2026-10-21T13:34:43Z",
             "open_issues": 2,
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
-            "stars": 1977,
+            "stars": 1978,
             "topics": [
               "awesome-list",
               "deep-learning"
@@ -788,7 +788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:28:00.144Z",
+    "last_updated": "2026-10-21T23:43:18.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Graph Condensation Papers, [TKDE 25] Graph Condensation: A Survey.",
