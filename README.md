@@ -1,6 +1,6 @@
 # Awesome Graph Condensation Papers with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,024 | 🐛 105 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,697 | 🐛 105 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
 **Graph condensation** (GC) is a data-centric approach that accelerates GNN model training by creating a compact yet representative graph to replace the original graph. It enables GNNs trained on the condensed graph to match the performance of those trained on the original graph.
 
@@ -119,7 +119,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 | NeurIPS'23 | SFGC      | 📌[Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data](https://arxiv.org/abs/2306.02664)              | Xin Zheng et al.            | [\[code\]](https://github.com/amanda-zheng/sfgc) ⭐ 38 \| 🐛 1 \| 🌐 Python \| 📅 2023-10-06                     |
 | Arxiv'23   | GroC      | [Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training](https://arxiv.org/abs/2311.15772)                   | Xinglin Li et al.           |                                                                                                                 |
 | Arxiv'24   | CTRL      | [Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching](https://arxiv.org/abs/2402.04924)                    | Tianle Zhang et al.         | [\[code\]](https://github.com/nus-hpc-ai-lab/ctrl) ⭐ 4 \| 🐛 0 \| 🌐 Python \| 📅 2024-02-09                    |
-| ICML'24    | GEOM      | 📌[Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching](https://arxiv.org/abs/2402.05011)              | Yuchen Zhang et al.         | [\[code\]](https://github.com/nus-hpc-ai-lab/geom) ⭐ 25 \| 🐛 0 \| 🌐 Python \| 📅 2024-06-23                   |
+| ICML'24    | GEOM      | 📌[Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching](https://arxiv.org/abs/2402.05011)              | Yuchen Zhang et al.         | [\[code\]](https://github.com/nus-hpc-ai-lab/geom) ⭐ 24 \| 🐛 0 \| 🌐 Python \| 📅 2024-06-23                   |
 | KDD'24     | GCSR      | [Graph Data Condensation via Self-expressive Graph Structure Reconstruction](https://arxiv.org/abs/2403.07294)                             | Zhanyu Liu et al.           | [\[code\]](https://www.dropbox.com/scl/fi/2aonyp5ln5gisdqtjimu8/GCSR.zip?rlkey=11cuwfpsf54wxiiktu0klud0x\&dl=0) |
 | KDD'24     | SGDC      | 📌[Self-Supervised Learning for Graph Dataset Condensation](https://dl.acm.org/doi/10.1145/3637528.3671682)                                | Yuxiang Wang et al.         | [\[code\]](https://github.com/wyx11112/SGDC) ⭐ 4 \| 🐛 0 \| 🌐 Python \| 📅 2025-12-30                          |
 | ECCV'24    | GSTAM     | [GSTAM: Efficient Graph Distillation with Structural Attention-Matching](https://arxiv.org/abs/2408.16871)                                 | Arash Rasti-Meymandi et al. | [\[code\]](https://github.com/arashrasti96/GSTAM) ⭐ 5 \| 🐛 0 \| 🌐 Python \| 📅 2024-08-27                     |
@@ -246,7 +246,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------- | -------------- | ----------- | --------- | ---------------------------------------------------------------------------------------------- |
 | [GCondenser](https://github.com/superallen13/GCondenser) ⭐ 14 \| 🐛 0 \| 🌐 Python \| 📅 2025-06-18 | [\[paper\]](https://arxiv.org/abs/2405.14246) | PyG, DGL       | 6           | 7         | Node classification                                                                            |
 | [GC-Bench](https://github.com/RingBDStack/GC-Bench) ⭐ 21 \| 🐛 1 \| 🌐 Python \| 📅 2024-08-15      | [\[paper\]](https://arxiv.org/abs/2407.00615) | PyG            | 9           | 12        | Node classification, graph classification, link prediction, node clustering, anomaly detection |
-| [GraphSlim](https://github.com/Emory-Melody/GraphSlim) ⭐ 32 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-29   | [\[paper\]](https://arxiv.org/abs/2406.16715) | PyG            | 7           | 5         | Node classification                                                                            |
+| [GraphSlim](https://github.com/Emory-Melody/GraphSlim) ⭐ 32 \| 🐛 0 \| 🌐 Python \| 📅 2026-11-01   | [\[paper\]](https://arxiv.org/abs/2406.16715) | PyG            | 7           | 5         | Node classification                                                                            |
 
 ***
 
@@ -256,7 +256,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 
 In addition to this Graph Condensation Papers Repository, you may find the following related repositories valuable for your research and exploration:
 
-* [Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,980 | 🐛 3 | 🌐 HTML | 📅 2026-10-21
+* [Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,981 | 🐛 3 | 🌐 HTML | 📅 2026-10-21
 * [Awesome-graph-reduction](https://github.com/ChandlerBang/awesome-graph-reduction) ⭐ 190 | 🐛 0 | 📅 2026-10-30
 * [Awesome-Graph-Scaling](https://github.com/Frostland12138/Awesome-Graph-Scaling) ⭐ 21 | 🐛 0 | 📅 2025-04-10
 
@@ -282,4 +282,4 @@ Thank you for your interest in the Graph Condensation Papers Repository. We hope
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
