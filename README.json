@@ -685,11 +685,11 @@
           "repo_info": {
             "archived": false,
             "description": "A Python library for graph reduction including condensation, coarsening, and sparsification.",
-            "homepage": "https://arxiv.org/pdf/2406.16715?",
+            "homepage": "https://graphslim.readthedocs.io",
             "id": 760524195,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T00:46:31Z",
+            "last_commit": "2026-11-07T00:07:03Z",
             "open_issues": 0,
             "owner": "Emory-Melody",
             "repo": "GraphSlim",
@@ -727,7 +727,7 @@
             "open_issues": 0,
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
-            "stars": 1982,
+            "stars": 1983,
             "topics": [
               "awesome-list",
               "deep-learning"
@@ -788,7 +788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:09:53.520Z",
+    "last_updated": "2026-11-07T00:25:44.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Graph Condensation Papers, [TKDE 25] Graph Condensation: A Survey.",
