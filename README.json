@@ -689,7 +689,7 @@
             "id": 760524195,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T00:07:03Z",
+            "last_commit": "2026-11-07T07:32:12Z",
             "open_issues": 0,
             "owner": "Emory-Melody",
             "repo": "GraphSlim",
@@ -727,7 +727,7 @@
             "open_issues": 0,
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
-            "stars": 1983,
+            "stars": 1982,
             "topics": [
               "awesome-list",
               "deep-learning"
@@ -788,7 +788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:25:44.573Z",
+    "last_updated": "2026-11-08T00:01:19.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Graph Condensation Papers, [TKDE 25] Graph Condensation: A Survey.",
