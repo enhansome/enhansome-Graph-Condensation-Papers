@@ -723,7 +723,7 @@
             "id": 501453265,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-16T14:02:11Z",
+            "last_commit": "2026-11-19T05:22:40Z",
             "open_issues": 1,
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
@@ -747,8 +747,8 @@
             "id": 689494142,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-30T00:08:06Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-19T20:57:55Z",
+            "open_issues": 0,
             "owner": "Emory-Melody",
             "repo": "awesome-graph-reduction",
             "stars": 190,
@@ -788,7 +788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:03:26.753Z",
+    "last_updated": "2026-11-20T01:54:37.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Graph Condensation Papers, [TKDE 25] Graph Condensation: A Survey.",
